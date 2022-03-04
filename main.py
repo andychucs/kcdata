@@ -21,4 +21,4 @@ if __name__ == '__main__':
         "type": "event" if i["id"] // 10 > 7 else "extra" if i["id"] % 10 >= 5 else "normal"
     } for i in get_json(kc_data_url('map'))]
     with open('json/map.json', 'w+', encoding='utf8') as f:
-        f.write(json.dumps(map_list, ensure_ascii=False))
+        f.write(json.dumps(map_list, ensure_ascii=False, indent=1))
