@@ -22,3 +22,13 @@ if __name__ == '__main__':
     } for i in get_json(kc_data_url('map'))]
     with open('json/map.json', 'w+', encoding='utf8') as f:
         f.write(json.dumps(map_list, ensure_ascii=False, indent=1))
+    area_list = [
+        {
+            "id": i["id"],
+            "name": i["name"],
+            "event":i["event"]
+        }
+        for i in get_json(kc_data_url('maparea'))
+    ]
+    with open('json/area.json', 'w+', encoding='utf8') as f:
+        f.write(json.dumps(area_list, ensure_ascii=False, indent=1))
