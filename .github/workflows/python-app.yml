@@ -40,8 +40,8 @@ jobs:
       uses: EndBug/add-and-commit@v4
       with:
         author_name: GitHub Actions Bot
-        author_email: <>
-        message: "GitHub Actions Bot"
+        author_email: ""
+        message: "GitHub Actions Refresh"
         add: "json/*.json"
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}        
