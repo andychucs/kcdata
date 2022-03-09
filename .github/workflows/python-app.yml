@@ -1,7 +1,7 @@
 # This workflow will install Python dependencies, run tests and lint with a single version of Python
 # For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
 
-name: Python application
+name: Auto Refresh
 
 on:
   workflow_dispatch: 
@@ -40,7 +40,7 @@ jobs:
       uses: EndBug/add-and-commit@v4
       with:
         author_name: GitHub Actions Bot
-        author_email: ""
+        author_email: <>
         message: "GitHub Actions Refresh"
         add: "json/*.json"
       env:
