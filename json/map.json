@@ -497,6 +497,18 @@
    "id": 3,
    "name": "関東/太平洋沖",
    "type": "event"
+  },
+  {
+   "area": 53,
+   "id": 4,
+   "name": "昭南～マニラ航路",
+   "type": "event"
+  },
+  {
+   "area": 53,
+   "id": 5,
+   "name": "東シナ海～北九州沖",
+   "type": "event"
   }
  ]
 }
