@@ -211,6 +211,12 @@
    "type": "normal"
   },
   {
+   "area": 7,
+   "id": 5,
+   "name": "ジャワ島沖",
+   "type": "extra"
+  },
+  {
    "area": 42,
    "id": 1,
    "name": "南西作戦海域方面 バリ島沖",
@@ -574,6 +580,42 @@
    "area": 55,
    "id": 6,
    "name": "カサブランカ沖",
+   "type": "event"
+  },
+  {
+   "area": 56,
+   "id": 1,
+   "name": "日本本土近海哨戒圏",
+   "type": "event"
+  },
+  {
+   "area": 56,
+   "id": 2,
+   "name": "南西諸島沖/台湾沖",
+   "type": "event"
+  },
+  {
+   "area": 56,
+   "id": 3,
+   "name": "九州沖/四国沖/八丈島沖",
+   "type": "event"
+  },
+  {
+   "area": 56,
+   "id": 4,
+   "name": "小笠原諸島航路/父島沖",
+   "type": "event"
+  },
+  {
+   "area": 56,
+   "id": 5,
+   "name": "父島沖/硫黄島沖",
+   "type": "event"
+  },
+  {
+   "area": 56,
+   "id": 6,
+   "name": "硫黄島沖",
    "type": "event"
   }
  ]
