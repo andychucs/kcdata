@@ -59,10 +59,10 @@ for row in table.xpath('.//tr'):
         })
 
 # 将结果输出为JSON文件
-with open('json/expeditions.json', 'w') as file:
+with open('json/expeditions.json', 'w', encoding='utf8') as file:
     json.dump(result, file, ensure_ascii=False, indent=4)
 
-with open('json/CT_tasks.json', 'w') as file:
+with open('json/CT_tasks.json', 'w', encoding='utf8') as file:
     json.dump(ct_tasks, file, ensure_ascii=False, indent=4)
 
 
