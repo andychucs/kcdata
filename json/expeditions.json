@@ -1,0 +1,632 @@
+[
+    {
+        "expedition_id": "1",
+        "expedition_name": "練習航海",
+        "expedition_difficulty": "E",
+        "expedition_description": "鎮守府近海を航海し、艦隊の練度を高めよう！",
+        "expedition_time": "00:15:00",
+        "expedition_fuel": "少量/30%",
+        "expedition_ammo": "なし",
+        "tag": "鎮守府海域"
+    },
+    {
+        "expedition_id": "2",
+        "expedition_name": "長距離練習航海",
+        "expedition_difficulty": "E",
+        "expedition_description": "外海まで足を延ばし、艦隊の練度を高めよう！",
+        "expedition_time": "00:30:00",
+        "expedition_fuel": "普通/50%",
+        "expedition_ammo": "なし",
+        "tag": "鎮守府海域"
+    },
+    {
+        "expedition_id": "3",
+        "expedition_name": "警備任務",
+        "expedition_difficulty": "D",
+        "expedition_description": "鎮守府担当海域をパトロールして領海の安全を守ろう！",
+        "expedition_time": "00:20:00",
+        "expedition_fuel": "少量/30%",
+        "expedition_ammo": "少量/20%",
+        "tag": "鎮守府海域"
+    },
+    {
+        "expedition_id": "4",
+        "expedition_name": "対潜警戒任務",
+        "expedition_difficulty": "D",
+        "expedition_description": "水雷戦隊を編成、領海内を索敵、対潜水警戒任務に就こう！",
+        "expedition_time": "00:50:00",
+        "expedition_fuel": "普通/50%",
+        "expedition_ammo": "なし",
+        "tag": "鎮守府海域"
+    },
+    {
+        "expedition_id": "5",
+        "expedition_name": "海上護衛任務",
+        "expedition_difficulty": "C",
+        "expedition_description": "輸送船団の安全を図るために、船団に同行し、これを護衛しよう！",
+        "expedition_time": "01:30:00",
+        "expedition_fuel": "普通/50%",
+        "expedition_ammo": "なし",
+        "tag": "鎮守府海域"
+    },
+    {
+        "expedition_id": "6",
+        "expedition_name": "防空射撃演習",
+        "expedition_difficulty": "C",
+        "expedition_description": "敵艦載機襲来に備えて、対空射撃や回避運動の訓練をしよう！",
+        "expedition_time": "00:40:00",
+        "expedition_fuel": "少量/30%",
+        "expedition_ammo": "少量/20%",
+        "tag": "鎮守府海域"
+    },
+    {
+        "expedition_id": "7",
+        "expedition_name": "観艦式予行",
+        "expedition_difficulty": "C",
+        "expedition_description": "海の一大ページェント「観艦式」の予行航海を実施しよう！",
+        "expedition_time": "01:00:00",
+        "expedition_fuel": "普通/50%",
+        "expedition_ammo": "なし",
+        "tag": "鎮守府海域"
+    },
+    {
+        "expedition_id": "8",
+        "expedition_name": "観艦式",
+        "expedition_difficulty": "B",
+        "expedition_description": "今こそ日頃の訓練の成果を見せるとき！「観艦式」を挙行しよう！",
+        "expedition_time": "03:00:00",
+        "expedition_fuel": "普通/50%",
+        "expedition_ammo": "少量/20%",
+        "tag": "鎮守府海域"
+    },
+    {
+        "expedition_id": "A1",
+        "expedition_name": "兵站強化任務",
+        "expedition_difficulty": "D",
+        "expedition_description": "港湾施設強化と兵站備蓄施設拡充に協力し、補給体制を強化せよ！",
+        "expedition_time": "00:25:00",
+        "expedition_fuel": "普通/40%",
+        "expedition_ammo": "なし",
+        "tag": "鎮守府海域"
+    },
+    {
+        "expedition_id": "A2",
+        "expedition_name": "海峡警備行動",
+        "expedition_difficulty": "C",
+        "expedition_description": "海防艦や駆逐艦による、沿岸警備部隊で、海峡警備を実施しよう！",
+        "expedition_time": "00:55:00",
+        "expedition_fuel": "普通/50%",
+        "expedition_ammo": "少量/20%",
+        "tag": "鎮守府海域"
+    },
+    {
+        "expedition_id": "A3",
+        "expedition_name": "長時間対潜警戒",
+        "expedition_difficulty": "B",
+        "expedition_description": "高練度の対潜部隊を展開、敵潜を制圧し、航路の安全を確保せよ！",
+        "expedition_time": "02:15:00",
+        "expedition_fuel": "普通/60%",
+        "expedition_ammo": "普通/30%",
+        "tag": "鎮守府海域"
+    },
+    {
+        "expedition_id": "A4",
+        "expedition_name": "南西方面連絡線哨戒",
+        "expedition_difficulty": "S",
+        "expedition_description": "油田地帯航路の安全を確保する。対潜哨戒能力の高い海上護衛部隊を編成、南西方面連絡線に展開、同方面の対潜哨戒を実施せよ!【月一回実施可能遠征】",
+        "expedition_time": "01:50:00",
+        "expedition_fuel": "普通/75%",
+        "expedition_ammo": "普通/60%",
+        "tag": "鎮守府海域"
+    },
+    {
+        "expedition_id": "A5",
+        "expedition_name": "小笠原沖哨戒線",
+        "expedition_difficulty": "S",
+        "expedition_description": "本土の守りの要、小笠原沖哨戒線に精強な哨戒小艦隊を展開する。敵遠征部隊との交戦に備え、練度装備の充実した戦隊を投入せよ！【月一回実施可能・交戦遠征】",
+        "expedition_time": "03:00:00",
+        "expedition_fuel": "普通/80%",
+        "expedition_ammo": "普通/75%",
+        "tag": "鎮守府海域"
+    },
+    {
+        "expedition_id": "A6",
+        "expedition_name": "小笠原沖戦闘哨戒",
+        "expedition_difficulty": "S",
+        "expedition_description": "小笠原沖方面への敵部隊の接近を確認した！同方面防衛のため、最精鋭の哨戒艦隊を編成、同方面の戦闘哨戒を実施、敵を撃破せよ！【月一回実施可能・交戦遠征】",
+        "expedition_time": "03:30:00",
+        "expedition_fuel": "普通/90%",
+        "expedition_ammo": "普通/95%",
+        "tag": "鎮守府海域"
+    },
+    {
+        "expedition_id": "9",
+        "expedition_name": "タンカー護衛任務",
+        "expedition_difficulty": "C",
+        "expedition_description": "油田地帯から燃料を満載して戻るタンカー船団を護衛しよう！",
+        "expedition_time": "04:00:00",
+        "expedition_fuel": "普通/50%",
+        "expedition_ammo": "なし",
+        "tag": "南西諸島海域"
+    },
+    {
+        "expedition_id": "10",
+        "expedition_name": "強行偵察任務",
+        "expedition_difficulty": "C",
+        "expedition_description": "水上偵察機搭載艦などを活用し、敵艦隊の動向を探れ！",
+        "expedition_time": "01:30:00",
+        "expedition_fuel": "少量/30%",
+        "expedition_ammo": "なし",
+        "tag": "南西諸島海域"
+    },
+    {
+        "expedition_id": "11",
+        "expedition_name": "ボーキサイト輸送任務",
+        "expedition_difficulty": "B",
+        "expedition_description": "資源集積地から、母港にボーキサイトを輸送しよう！",
+        "expedition_time": "05:00:00",
+        "expedition_fuel": "普通/50%",
+        "expedition_ammo": "なし",
+        "tag": "南西諸島海域"
+    },
+    {
+        "expedition_id": "12",
+        "expedition_name": "資源輸送任務",
+        "expedition_difficulty": "B",
+        "expedition_description": "資源国からの輸送部隊を護衛し、母港への輸送を無事完遂しよう！",
+        "expedition_time": "08:00:00",
+        "expedition_fuel": "普通/50%",
+        "expedition_ammo": "なし",
+        "tag": "南西諸島海域"
+    },
+    {
+        "expedition_id": "13",
+        "expedition_name": "鼠輸送作戦",
+        "expedition_difficulty": "A",
+        "expedition_description": "快速の水雷戦隊を集中運用して、激戦の諸島へ物資を輸送しよう！",
+        "expedition_time": "04:00:00",
+        "expedition_fuel": "普通/50%",
+        "expedition_ammo": "普通/40%",
+        "tag": "南西諸島海域"
+    },
+    {
+        "expedition_id": "14",
+        "expedition_name": "包囲陸戦隊撤収作戦",
+        "expedition_difficulty": "A",
+        "expedition_description": "機動力のある小艦艇部隊を結集、包囲下の部隊を収容しよう！",
+        "expedition_time": "06:00:00",
+        "expedition_fuel": "普通/50%",
+        "expedition_ammo": "なし",
+        "tag": "南西諸島海域"
+    },
+    {
+        "expedition_id": "15",
+        "expedition_name": "囮機動部隊支援作戦",
+        "expedition_difficulty": "S",
+        "expedition_description": "敵機動部隊を誘引する空母を含む囮部隊で主力艦隊を支援しよう！",
+        "expedition_time": "12:00:00",
+        "expedition_fuel": "普通/50%",
+        "expedition_ammo": "普通/40%",
+        "tag": "南西諸島海域"
+    },
+    {
+        "expedition_id": "16",
+        "expedition_name": "艦隊決戦援護作戦",
+        "expedition_difficulty": "S",
+        "expedition_description": "有力な艦隊を編成し、敵背後側面を奇襲、艦隊決戦を援護しよう！",
+        "expedition_time": "15:00:00",
+        "expedition_fuel": "普通/50%",
+        "expedition_ammo": "普通/40%",
+        "tag": "南西諸島海域"
+    },
+    {
+        "expedition_id": "B1",
+        "expedition_name": "南西方面航空偵察作戦",
+        "expedition_difficulty": "B",
+        "expedition_description": "索敵力の高い水上機母艦及び軽巡を伴う艦隊で敵情勢を偵察せよ！",
+        "expedition_time": "00:35:00",
+        "expedition_fuel": "普通/45%",
+        "expedition_ammo": "少量/15%",
+        "tag": "南西諸島海域"
+    },
+    {
+        "expedition_id": "B2",
+        "expedition_name": "敵泊地強襲反撃作戦",
+        "expedition_difficulty": "B",
+        "expedition_description": "重巡1軽巡1と精強駆逐隊による最精鋭艦隊で敵泊地を強襲せよ！【月一回実施可能遠征】",
+        "expedition_time": "08:40:00",
+        "expedition_fuel": "大量/80%",
+        "expedition_ammo": "普通/65%",
+        "tag": "南西諸島海域"
+    },
+    {
+        "expedition_id": "B3",
+        "expedition_name": "南西諸島離島哨戒作戦",
+        "expedition_difficulty": "S",
+        "expedition_description": "水上機母艦と護衛水雷戦隊による哨戒部隊を編成、南西諸島海域の哨戒作戦を実施せよ！【月一回実施可能遠征】",
+        "expedition_time": "02:50:00",
+        "expedition_fuel": "普通/65%",
+        "expedition_ammo": "普通/80%",
+        "tag": "南西諸島海域"
+    },
+    {
+        "expedition_id": "B4",
+        "expedition_name": "南西諸島離島防衛作戦",
+        "expedition_difficulty": "S+",
+        "expedition_description": "重巡2軽巡1駆逐艦2、さらに潜水艦1隻を含む、精強な遊撃部隊を編成。同遊撃部隊による南西諸島海域防衛作戦を実施せよ！【月一回実施可能遠征】",
+        "expedition_time": "07:30:00",
+        "expedition_fuel": "普通/85%",
+        "expedition_ammo": "普通/85%",
+        "tag": "南西諸島海域"
+    },
+    {
+        "expedition_id": "B5",
+        "expedition_name": "南西諸島捜索撃滅戦",
+        "expedition_difficulty": "S+",
+        "expedition_description": "水上機母艦1軽巡1駆逐艦2を含む精鋭の捜索機動部隊を編成。南西諸島方面で索敵撃滅戦を展開、敵艦隊を捜索、これを撃破せよ！【月一回実施可能・交戦遠征】",
+        "expedition_time": "06:30:00",
+        "expedition_fuel": "普通/90%",
+        "expedition_ammo": "普通/95%",
+        "tag": "南西諸島海域"
+    },
+    {
+        "expedition_id": "B6",
+        "expedition_name": "精鋭水雷戦隊夜襲",
+        "expedition_difficulty": "S+",
+        "expedition_description": "精鋭無比の軽巡が率いる、軽巡1駆逐艦5からなる精強な水雷戦隊を編成、敵泊地への夜襲を敢行、敵艦隊を痛撃せよ！【月一回実施可能・交戦遠征】",
+        "expedition_time": "05:50:00",
+        "expedition_fuel": "普通/95%",
+        "expedition_ammo": "普通/95%",
+        "tag": "南西諸島海域"
+    },
+    {
+        "expedition_id": "17",
+        "expedition_name": "敵地偵察作戦",
+        "expedition_difficulty": "A",
+        "expedition_description": "精鋭水雷戦隊を投入し、北方海域の敵情勢を強行偵察せよ！",
+        "expedition_time": "00:45:00",
+        "expedition_fuel": "少量/30%",
+        "expedition_ammo": "普通/40%",
+        "tag": "北方海域"
+    },
+    {
+        "expedition_id": "18",
+        "expedition_name": "航空機輸送作戦",
+        "expedition_difficulty": "S",
+        "expedition_description": "「航空母艦」を多数配備した輸送部隊で前線に航空機を輸送せよ！",
+        "expedition_time": "05:00:00",
+        "expedition_fuel": "普通/50%",
+        "expedition_ammo": "少量/20%",
+        "tag": "北方海域"
+    },
+    {
+        "expedition_id": "19",
+        "expedition_name": "北号作戦",
+        "expedition_difficulty": "S",
+        "expedition_description": "高練度「航空戦艦」複数を基幹とする強行輸送船団を出航させよ！",
+        "expedition_time": "06:00:00",
+        "expedition_fuel": "普通/50%",
+        "expedition_ammo": "普通/40%",
+        "tag": "北方海域"
+    },
+    {
+        "expedition_id": "20",
+        "expedition_name": "潜水艦哨戒任務",
+        "expedition_difficulty": "S",
+        "expedition_description": "潜水艦と同支援艦艇による艦隊で北方海域の哨戒任務にあたれ！",
+        "expedition_time": "02:00:00",
+        "expedition_fuel": "普通/50%",
+        "expedition_ammo": "普通/40%",
+        "tag": "北方海域"
+    },
+    {
+        "expedition_id": "21",
+        "expedition_name": "北方鼠輸送作戦",
+        "expedition_difficulty": "S",
+        "expedition_description": "水雷戦隊にドラム缶を積載、北方方面の友軍への糧食補給を図れ！",
+        "expedition_time": "02:20:00",
+        "expedition_fuel": "大量/80%",
+        "expedition_ammo": "大量/70%",
+        "tag": "北方海域"
+    },
+    {
+        "expedition_id": "22",
+        "expedition_name": "艦隊演習",
+        "expedition_difficulty": "S",
+        "expedition_description": "練度向上のため艦隊演習を実施！(資源獲得の遠征ではありません)",
+        "expedition_time": "03:00:00",
+        "expedition_fuel": "大量/80%",
+        "expedition_ammo": "大量/70%",
+        "tag": "北方海域"
+    },
+    {
+        "expedition_id": "23",
+        "expedition_name": "航空戦艦運用演習",
+        "expedition_difficulty": "S",
+        "expedition_description": "高練度「航空戦艦」戦隊を基幹とした艦隊の総合演習を実施せよ！",
+        "expedition_time": "04:00:00",
+        "expedition_fuel": "大量/80%",
+        "expedition_ammo": "大量/80%",
+        "tag": "北方海域"
+    },
+    {
+        "expedition_id": "24",
+        "expedition_name": "北方航路海上護衛",
+        "expedition_difficulty": "S",
+        "expedition_description": "高練度軽巡が率いる精鋭護衛艦隊で北方航路海上護衛を実施せよ！",
+        "expedition_time": "08:20:00",
+        "expedition_fuel": "大量/90%",
+        "expedition_ammo": "普通/60%",
+        "tag": "北方海域"
+    },
+    {
+        "expedition_id": "41",
+        "expedition_name": "ブルネイ泊地沖哨戒",
+        "expedition_difficulty": "A",
+        "expedition_description": "海防艦や駆逐艦による哨戒艦隊でブルネイ泊地沖対潜警戒を実施、同泊地周辺海域の安全を図れ！",
+        "expedition_time": "01:00:00",
+        "expedition_fuel": "普通/50%",
+        "expedition_ammo": "普通/50%",
+        "tag": "南西海域"
+    },
+    {
+        "expedition_id": "42",
+        "expedition_name": "ミ船団護衛(一号船団)",
+        "expedition_difficulty": "S",
+        "expedition_description": "油田地帯から本土への輸送船団の護衛を行う。",
+        "expedition_time": "08:00:00",
+        "expedition_fuel": "普通/80%",
+        "expedition_ammo": "普通/65%",
+        "tag": "南西海域"
+    },
+    {
+        "expedition_id": "43",
+        "expedition_name": "ミ船団護衛(二号船団)",
+        "expedition_difficulty": "S+",
+        "expedition_description": "大規模ミ船団の護衛作戦を行う。敵通商破壊部隊との会敵が予想される。護衛空母(または軽空母)を旗艦とする海上護衛部隊、出撃！【月一回実施可能・交戦遠征】",
+        "expedition_time": "12:00:00",
+        "expedition_fuel": "普通/85%",
+        "expedition_ammo": "普通/90%",
+        "tag": "南西海域"
+    },
+    {
+        "expedition_id": "44",
+        "expedition_name": "航空装備輸送任務",
+        "expedition_difficulty": "S",
+        "expedition_description": "航空母艦2及び水上機母艦1を投入して、南西海域拠点への航空装備輸送作戦を実施せよ！可能な限り輸送用ドラム缶も積載されたし！【月一回実施可能遠征】",
+        "expedition_time": "10:00:00",
+        "expedition_fuel": "普通/80%",
+        "expedition_ammo": "普通/40%",
+        "tag": "南西海域"
+    },
+    {
+        "expedition_id": "45",
+        "expedition_name": "ボーキサイト船団護衛",
+        "expedition_difficulty": "S",
+        "expedition_description": "海上護衛総隊によるボーキサイト輸送船団の護衛を実施する。護衛空母(または軽空母)を旗艦とする海上護衛部隊、抜錨せよ！",
+        "expedition_time": "03:20:00",
+        "expedition_fuel": "普通/60%",
+        "expedition_ammo": "普通/40%",
+        "tag": "南西海域"
+    },
+    {
+        "expedition_id": "46",
+        "expedition_name": "南西海域戦闘哨戒",
+        "expedition_difficulty": "S+",
+        "expedition_description": "精強な重巡戦隊と水雷戦隊を中核とした有力なる艦隊で、南西海域深部を哨戒、敵艦隊を捜索！発見次第、これを撃滅せよ！【月一回実施可能・交戦遠征】",
+        "expedition_time": "03:30:00",
+        "expedition_fuel": "普通/75%",
+        "expedition_ammo": "普通/95%",
+        "tag": "南西海域"
+    },
+    {
+        "expedition_id": "25",
+        "expedition_name": "通商破壊作戦",
+        "expedition_difficulty": "S",
+        "expedition_description": "快速かつ打撃力のある重巡戦隊を投入、敵後方補給線を遮断せよ！",
+        "expedition_time": "40:00:00",
+        "expedition_fuel": "普通/50%",
+        "expedition_ammo": "大量/80%",
+        "tag": "西方海域"
+    },
+    {
+        "expedition_id": "26",
+        "expedition_name": "敵母港空襲作戦",
+        "expedition_difficulty": "S",
+        "expedition_description": "敵潜水艦の哨戒線を長躯突破し、有力な機動艦隊で敵母港を叩け！",
+        "expedition_time": "80:00:00",
+        "expedition_fuel": "大量/80%",
+        "expedition_ammo": "大量/80%",
+        "tag": "西方海域"
+    },
+    {
+        "expedition_id": "27",
+        "expedition_name": "潜水艦通商破壊作戦",
+        "expedition_difficulty": "S",
+        "expedition_description": "潜水艦2隻以上を伴う艦隊で、敵後方へ進出、通商破壊作戦実施！",
+        "expedition_time": "20:00:00",
+        "expedition_fuel": "大量/80%",
+        "expedition_ammo": "大量/80%",
+        "tag": "西方海域"
+    },
+    {
+        "expedition_id": "28",
+        "expedition_name": "西方海域封鎖作戦",
+        "expedition_difficulty": "S",
+        "expedition_description": "潜水艦3隻以上の艦隊で、西方海域の敵水上艦の活動を封鎖せよ！",
+        "expedition_time": "25:00:00",
+        "expedition_fuel": "大量/80%",
+        "expedition_ammo": "大量/80%",
+        "tag": "西方海域"
+    },
+    {
+        "expedition_id": "29",
+        "expedition_name": "潜水艦派遣演習",
+        "expedition_difficulty": "S",
+        "expedition_description": "潜水艦3隻以上の艦隊を編成し、長距離派遣の演習を実施せよ！",
+        "expedition_time": "24:00:00",
+        "expedition_fuel": "大量/90%",
+        "expedition_ammo": "普通/40%",
+        "tag": "西方海域"
+    },
+    {
+        "expedition_id": "30",
+        "expedition_name": "潜水艦派遣作戦",
+        "expedition_difficulty": "S",
+        "expedition_description": "潜水艦4隻以上の艦隊を編成し、遠方友軍勢力との連絡を試みよ！",
+        "expedition_time": "48:00:00",
+        "expedition_fuel": "大量/90%",
+        "expedition_ammo": "大量/70%",
+        "tag": "西方海域"
+    },
+    {
+        "expedition_id": "31",
+        "expedition_name": "海外艦との接触",
+        "expedition_difficulty": "S",
+        "expedition_description": "潜水艦4隻以上の艦隊を派遣し、海外艦との邂逅を試みよ！",
+        "expedition_time": "02:00:00",
+        "expedition_fuel": "普通/50%",
+        "expedition_ammo": "なし",
+        "tag": "西方海域"
+    },
+    {
+        "expedition_id": "32",
+        "expedition_name": "遠洋練習航海",
+        "expedition_difficulty": "D",
+        "expedition_description": "練習巡洋艦を旗艦で遠洋練習航海を実施、基礎練度向上に努めよ！",
+        "expedition_time": "24:00:00",
+        "expedition_fuel": "大量/90%",
+        "expedition_ammo": "少量/30%",
+        "tag": "西方海域"
+    },
+    {
+        "expedition_id": "D1",
+        "expedition_name": "西方海域偵察作戦",
+        "expedition_difficulty": "S",
+        "expedition_description": "索敵能力の高い水上機母艦を旗艦とする偵察艦隊を編成し、西方海域敵情勢の偵察を実施せよ！",
+        "expedition_time": "02:00:00",
+        "expedition_fuel": "大量/75%",
+        "expedition_ammo": "普通/50%",
+        "tag": "西方海域"
+    },
+    {
+        "expedition_id": "D2",
+        "expedition_name": "西方潜水艦作戦",
+        "expedition_difficulty": "S",
+        "expedition_description": "潜水母艦を旗艦として潜水艦3隻以上から構成される精強な潜水艦隊を編成、西方海域に進出、潜水艦作戦を実施せよ！【月一回実施可能・交戦遠征】",
+        "expedition_time": "10:00:00",
+        "expedition_fuel": "普通/90%",
+        "expedition_ammo": "普通/90%",
+        "tag": "西方海域"
+    },
+    {
+        "expedition_id": "D3",
+        "expedition_name": "欧州方面友軍との接触",
+        "expedition_difficulty": "S+",
+        "expedition_description": "旗艦に潜水母艦、同随伴護衛艦艇と潜水艦3隻以上から構成される西方潜水艦隊で戦線を強行突破、欧州方面友軍艦隊と接触を図れ！【月一回実施可能・交戦遠征】",
+        "expedition_time": "12:00:00",
+        "expedition_fuel": "普通/90%",
+        "expedition_ammo": "普通/95%",
+        "tag": "西方海域"
+    },
+    {
+        "expedition_id": "33",
+        "expedition_name": "前衛支援任務",
+        "expedition_difficulty": "E",
+        "expedition_description": "南方海域へ支援艦隊を出撃させ、主力艦隊の進撃を援護せよ！",
+        "expedition_time": "00:15:00",
+        "expedition_fuel": "普通/50%",
+        "expedition_ammo": "普通/",
+        "tag": "南方海域"
+    },
+    {
+        "expedition_id": "34",
+        "expedition_name": "艦隊決戦支援任務",
+        "expedition_difficulty": "E",
+        "expedition_description": "南方海域へ決戦支援を行う別働隊を展開し、主力艦隊を援護せよ！",
+        "expedition_time": "00:30:00",
+        "expedition_fuel": "普通/50%",
+        "expedition_ammo": "普通/",
+        "tag": "南方海域"
+    },
+    {
+        "expedition_id": "35",
+        "expedition_name": "MO作戦",
+        "expedition_difficulty": "S",
+        "expedition_description": "空母2隻を含むMO機動部隊を投入し、南方海域制海権を確保せよ！",
+        "expedition_time": "07:00:00",
+        "expedition_fuel": "大量/80%",
+        "expedition_ammo": "大量/80%",
+        "tag": "南方海域"
+    },
+    {
+        "expedition_id": "36",
+        "expedition_name": "水上機基地建設",
+        "expedition_difficulty": "S",
+        "expedition_description": "水上機母艦2隻を南方に展開し、哨戒用の水上機基地を建設せよ！",
+        "expedition_time": "09:00:00",
+        "expedition_fuel": "大量/80%",
+        "expedition_ammo": "大量/80%",
+        "tag": "南方海域"
+    },
+    {
+        "expedition_id": "37",
+        "expedition_name": "東京急行",
+        "expedition_difficulty": "S",
+        "expedition_description": "水雷戦隊に輸送ドラム缶を満載、南方への鼠輸送作戦を遂行せよ！",
+        "expedition_time": "02:45:00",
+        "expedition_fuel": "大量/80%",
+        "expedition_ammo": "大量/80%",
+        "tag": "南方海域"
+    },
+    {
+        "expedition_id": "38",
+        "expedition_name": "東京急行(弐)",
+        "expedition_difficulty": "S",
+        "expedition_description": "可能な限り輸送ドラム缶を満載、南方への鼠輸送作戦を続行せよ！",
+        "expedition_time": "02:55:00",
+        "expedition_fuel": "大量/80%",
+        "expedition_ammo": "大量/80%",
+        "tag": "南方海域"
+    },
+    {
+        "expedition_id": "39",
+        "expedition_name": "遠洋潜水艦作戦",
+        "expedition_difficulty": "S",
+        "expedition_description": "潜水母艦と潜水艦群による遠洋作戦を実施、敵勢力漸減に努めよ！",
+        "expedition_time": "30:00:00",
+        "expedition_fuel": "大量/90%",
+        "expedition_ammo": "大量/90%",
+        "tag": "南方海域"
+    },
+    {
+        "expedition_id": "40",
+        "expedition_name": "水上機前線輸送",
+        "expedition_difficulty": "S",
+        "expedition_description": "軽巡旗艦と複数の水上機母艦で、水上機の前線輸送を実施せよ！",
+        "expedition_time": "06:50:00",
+        "expedition_fuel": "大量/80%",
+        "expedition_ammo": "大量/70%",
+        "tag": "南方海域"
+    },
+    {
+        "expedition_id": "E1",
+        "expedition_name": "ラバウル方面艦隊進出",
+        "expedition_difficulty": "S+",
+        "expedition_description": "重巡旗艦、軽巡1駆逐艦3を含む艦隊を南方海域の要衝、ラバウル方面に進出させる。同海域周辺は敵空襲も予想される。注意せよ！【月一回実施可能・交戦遠征】",
+        "expedition_time": "07:30:00",
+        "expedition_fuel": "普通/95%",
+        "expedition_ammo": "普通/85%",
+        "tag": "南方海域"
+    },
+    {
+        "expedition_id": "E2",
+        "expedition_name": "強行鼠輸送作戦",
+        "expedition_difficulty": "S+",
+        "expedition_description": "精鋭駆逐艦を連ねて輸送ドラム缶を満載し、南方への強行鼠輸送作戦を遂行せよ！敵の待ち伏せも予想される。戦闘準備も怠るな！【月一回実施可能・交戦遠征】",
+        "expedition_time": "03:05:00",
+        "expedition_fuel": "普通/90%",
+        "expedition_ammo": "普通/95%",
+        "tag": "南方海域"
+    }
+]
