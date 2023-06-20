@@ -497,6 +497,84 @@
    "id": 3,
    "name": "関東/太平洋沖",
    "type": "event"
+  },
+  {
+   "area": 53,
+   "id": 4,
+   "name": "昭南～マニラ航路",
+   "type": "event"
+  },
+  {
+   "area": 53,
+   "id": 5,
+   "name": "東シナ海～北九州沖",
+   "type": "event"
+  },
+  {
+   "area": 54,
+   "id": 1,
+   "name": "ニューブリテン島ラバウル沖",
+   "type": "event"
+  },
+  {
+   "area": 54,
+   "id": 2,
+   "name": "ショートランド沖/レカタ沖",
+   "type": "event"
+  },
+  {
+   "area": 54,
+   "id": 3,
+   "name": "ビスマルク海/ダンピール海峡沖",
+   "type": "event"
+  },
+  {
+   "area": 54,
+   "id": 4,
+   "name": "豊後水道/佐世保沖/坊ノ岬沖",
+   "type": "event"
+  },
+  {
+   "area": 54,
+   "id": 5,
+   "name": "坊ノ岬沖/台湾沖/南西諸島海域",
+   "type": "event"
+  },
+  {
+   "area": 55,
+   "id": 1,
+   "name": "インド洋/アラビア海",
+   "type": "event"
+  },
+  {
+   "area": 55,
+   "id": 2,
+   "name": "アラビア海/アデン湾/紅海",
+   "type": "event"
+  },
+  {
+   "area": 55,
+   "id": 3,
+   "name": "スエズ湾/地中海",
+   "type": "event"
+  },
+  {
+   "area": 55,
+   "id": 4,
+   "name": "大西洋/ジブラルタル沖",
+   "type": "event"
+  },
+  {
+   "area": 55,
+   "id": 5,
+   "name": "ジブラルタル沖/北アフリカ沖",
+   "type": "event"
+  },
+  {
+   "area": 55,
+   "id": 6,
+   "name": "カサブランカ沖",
+   "type": "event"
   }
  ]
 }
