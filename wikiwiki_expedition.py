@@ -51,10 +51,10 @@ for row in table.xpath('.//tr'):
         })
 
         ct_tasks.append({
-            'task_id': expedition_id,
-            'task_name': expedition_name,
-            'task_time': expedition_time,
-            'task_description': expedition_description,
+            'id': expedition_id,
+            'title': expedition_name,
+            'time': expedition_time,
+            'description': expedition_description,
             'tag': tag
         })
 
