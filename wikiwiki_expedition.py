@@ -63,7 +63,7 @@ with open('json/expeditions.json', 'w', encoding='utf8') as file:
     json.dump(result, file, ensure_ascii=False, indent=4)
 
 with open('json/CT_tasks.json', 'w', encoding='utf8') as file:
-    json.dump(ct_tasks, file, ensure_ascii=False, indent=4)
+    json.dump({"items": ct_tasks}, file, ensure_ascii=False, indent=4)
 
 
 print("爬取完成并保存为expeditions.json文件。")
